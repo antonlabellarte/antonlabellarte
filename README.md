@@ -9,8 +9,6 @@ I'm Antonio Labellarte, Web and Software Developer.
 
 💻 If you ever heard about IBM i/AS400 🤢🧟‍♂️, then you must know I have even worked with RPG, RPG Free Format (Ile), DB2 with SQL using RDi and SEU as IDEs.
 
-[![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
-
 <!--
 **antonlabellarte/antonlabellarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
