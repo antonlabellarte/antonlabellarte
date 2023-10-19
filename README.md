@@ -1,7 +1,7 @@
 <!-- ### -->
 Hello Devs 👋.
 
-I'm Antonio Labellarte, Web and Sofware Developer
+I'm Antonio Labellarte, Web and Software Developer
 <!--
 **antonlabellarte/antonlabellarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
