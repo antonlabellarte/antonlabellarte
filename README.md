@@ -4,7 +4,7 @@ Hello Devs 👋.
 I'm Antonio Labellarte, Web and Software Developer.
 
 💻 Languages and Frameworks/libraries:
-*  Front-end: ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}), CSS <img src="{BadgeURLHere}" />, JavaScript <img src="{BadgeURLHere}" />, Bootstrap <img src="{BadgeURLHere}" />, Angular <img src="{BadgeURLHere}" />
+*  Front-end: HTML, CSS <img src="{BadgeURLHere}" />, JavaScript <img src="{BadgeURLHere}" />, Bootstrap <img src="{BadgeURLHere}" />, Angular <img src="{BadgeURLHere}" />
 *  Back-end: PHP, Laravel, MySQL, and a little bit of Java
 
 💻 If you ever heard about IBM i/AS400 🤢🧟‍♂️, then you must know I have even worked with RPG, RPG Free Format (Ile), DB2 with SQL using RDi and SEU as IDEs.
