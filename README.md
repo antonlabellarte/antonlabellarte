@@ -2,6 +2,7 @@
 Hello Devs 👋.
 
 I'm Antonio Labellarte, Web and Software Developer.
+
 Actually I'm in a Consulting Company partnered with Microsoft,
 developing in Python.
 offering consults in 365, Microsoft Azure.
