@@ -1,7 +1,13 @@
 <!-- ### -->
 Hello Devs 👋.
 
-I'm Antonio Labellarte, Web and Software Developer
+I'm Antonio Labellarte, Web and Software Developer.
+
+* Languages and Frameworks/libraries:
+  Front-end: HTML, CSS, JavaScript, Bootstrap, Angular
+  Back-end: PHP, Laravel, MySQL, Node.js, Express.js, MongoDB and a little bit of Java
+
+* If you ever heard about IBM i/AS400, then you must know I have even worked with RPG, RPG Free Format (Ile) using RDi and SEU as IDEs.
 <!--
 **antonlabellarte/antonlabellarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
