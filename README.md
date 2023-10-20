@@ -1,9 +1,7 @@
 <!-- ### -->
-## 👨‍💻 Hello Devs 👋
-
-<h1 align="center">
+<h2 align="center">
     👨‍💻 Hello Devs 👋
-</h1>
+</h2>
 
 I'm Antonio Labellarte, Web and Software Developer.
 
