@@ -25,8 +25,6 @@ offering consults in 365, Microsoft Azure.
 
 💻 If you ever heard about IBM i/AS400 🤢🧟‍♂️, then you must know I have even worked with RPG, RPG Free Format (Ile), DB2 with SQL using RDi and SEU as IDEs.
 
----
-
 <!-- 👀 Hobby and interests:
 * 🎮 Videogames and eSports
 * 🎱 Biliard Italian 5 pins -->
