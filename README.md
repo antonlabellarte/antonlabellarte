@@ -27,7 +27,9 @@ offering consults in 365, Microsoft Azure.
 
 ---
 
-👀 Hobby and interests: 
+<!-- 👀 Hobby and interests:
+* 🎮 Videogames and eSports
+* 🎱 Biliard Italian 5 pins -->
 
 ---
 <div>
