@@ -1,7 +1,7 @@
 <!-- ### -->
 <h2 align="center">Hello Devs 👋</h2>
 
-👨‍💻 I'm Antonio Labellarte, Web and Software Developer.
+<h3>👨‍💻 I'm Antonio Labellarte, Web and Software Developer.</h3>
 
 Actually I'm in a Consulting Company partnered with MS,
 developing in Python,
