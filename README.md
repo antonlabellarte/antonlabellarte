@@ -6,7 +6,7 @@
 I'm Antonio Labellarte, Web and Software Developer.
 
 Actually I'm in a Consulting Company partnered with MS,
-developing in Python.
+developing in Python,
 offering consults in 365, Microsoft Azure.
 
 ---
@@ -15,6 +15,10 @@ offering consults in 365, Microsoft Azure.
 *  <b>Front-end</b>: HTML, CSS, JavaScript, Bootstrap, Angular.
 *  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java
 
+💻 <b>Others</b>:
+*  Docker, GCP, AWS, MS Azure
+*  Microsoft Office 365: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
+ 
 ---
 
 💻 If you ever heard about IBM i/AS400 🤢🧟‍♂️, then you must know I have even worked with RPG, RPG Free Format (Ile), DB2 with SQL using RDi and SEU as IDEs.
