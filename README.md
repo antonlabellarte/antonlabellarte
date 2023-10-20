@@ -1,7 +1,7 @@
 <!-- ### -->
 ## 👨‍💻 Hello Devs 👋
 
-<h1>
+<h1 style="text-align: center">
     👨‍💻 Hello Devs 👋
 </h1>
 
