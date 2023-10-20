@@ -11,9 +11,9 @@ offering consults in 365, Microsoft Azure.
 
 ---
 
-💻 Languages and Frameworks/libraries:
-*  Front-end: HTML, CSS, JavaScript, Bootstrap, Angular.
-*  Back-end: PHP, Laravel, Python, MySQL, and a little bit of Java
+💻 <b>Languages and Frameworks/libraries</b>:
+*  <b>Front-end</b>: HTML, CSS, JavaScript, Bootstrap, Angular.
+*  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java
 
 ---
 
