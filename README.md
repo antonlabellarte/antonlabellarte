@@ -32,7 +32,7 @@ offering consults in 365, Microsoft Azure.
 </div>
 
 ---
-🌍 Networks 
+🌍 Reach me 🔽 
 
 <a href="https://www.linkedin.com/in/antonio-labellarte/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
