@@ -7,11 +7,17 @@ Actually I'm in a Consulting Company partnered with MS,
 developing in Python.
 offering consults in 365, Microsoft Azure.
 
+---
+
 💻 Languages and Frameworks/libraries:
 *  Front-end: HTML, CSS, JavaScript, Bootstrap, Angular.
 *  Back-end: PHP, Laravel, Python, MySQL, and a little bit of Java
 
+---
+
 💻 If you ever heard about IBM i/AS400 🤢🧟‍♂️, then you must know I have even worked with RPG, RPG Free Format (Ile), DB2 with SQL using RDi and SEU as IDEs.
+
+---
 
 🌍 Linkedin: https://www.linkedin.com/in/antonio-labellarte/
 
