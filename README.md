@@ -11,13 +11,14 @@ offering consults in 365, Microsoft Azure.
 
 ---
 
+    <b>Development</b>
 💻 <b>Languages and Frameworks/libraries</b>:
 *  <b>Front-end</b>: HTML, CSS, JavaScript, Bootstrap, Angular.
 *  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java
 
 💻 <b>Others</b>:
-*  Docker, GCP, AWS, MS Azure
-*  Microsoft Office 365: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
+*  <b>Cloud</b>: Docker, GCP, AWS, MS Azure
+*  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
  
 ---
 
