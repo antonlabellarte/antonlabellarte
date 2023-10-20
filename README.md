@@ -19,6 +19,7 @@ offering consults in 365, Microsoft Azure.
 💻 <b>Others</b>:
 *  <b>Cloud</b>: Docker, GCP, AWS, MS Azure
 *  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
+*  <b>Linux Systems</b>: Ubuntu, bash terminal.
  
 ---
 
