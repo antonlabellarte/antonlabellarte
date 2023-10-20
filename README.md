@@ -1,5 +1,5 @@
 <!-- ### -->
-Hello Devs 👋.
+👨‍💻 Hello Devs 👋
 
 I'm Antonio Labellarte, Web and Software Developer.
 
