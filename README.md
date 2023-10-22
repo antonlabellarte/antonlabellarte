@@ -15,7 +15,8 @@ offering consults in 365, Microsoft Azure.
 *  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java
 
 💻 <b>Others</b>:
-*  <b>Cloud</b>: Docker, GCP, AWS, MS Azure
+*  <b>Virtualization</b>: Docker
+*  <b>Cloud</b>: GCP, AWS, MS Azure
 *  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
 *  <b>Linux Systems</b>: Ubuntu, bash terminal.
  
