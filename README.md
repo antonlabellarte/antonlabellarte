@@ -5,7 +5,7 @@
 
 Actually I'm in a Consulting Company partnered with MS,
 developing in Python,
-offering consults in 365, Microsoft Azure.
+offering consults in 365, Power Apps & SharePoint.
 
 ---
 <b>Development tools</b>: 
@@ -17,7 +17,7 @@ offering consults in 365, Microsoft Azure.
 💻 <b>Others</b>:
 *  <b>Virtualization</b>: Docker
 *  <b>Cloud</b>: GCP, AWS, MS Azure
-*  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🔵 Power Automate, ✉ Exchange managing inbox email flow
+*  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🟣 Power Apps, 🔵 Power Automate, ✉ Exchange managing inbox email flow
 *  <b>Linux Systems</b>: Ubuntu, bash terminal.
  
 ---
