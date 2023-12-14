@@ -17,7 +17,7 @@ offering consults in 365 Environment, managing enterprises domains and mailboxes
 💻 <b>Others</b>:
 *  <b>Virtualization</b>: Docker
 *  <b>Cloud</b>: GCP, AWS, MS Azure
-*  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🟣 Power Apps, 🔵 Power Automate, ✉ Exchange managing inbox email flow
+*  <b>Microsoft Office 365</b>: 🟢 SharePoint, 🟣 Power Apps, 🔵 Power Automate, ✉ Exchange managing mailboxes flow
 *  <b>Linux Systems</b>: Ubuntu, bash terminal.
  
 ---
