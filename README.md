@@ -4,15 +4,15 @@
 <h3>👨‍💻 I'm Antonio Labellarte, Web and Software Developer.</h3>
 
 Actually I'm in a Consulting Company partnered with MS,
-developing in Python,
-offering consults in 365, Power Apps & SharePoint.
+developing app with Power Apps, using Python solutions,
+offering consults in 365 Environment, managing enterprises domains and mailboxes flows.
 
 ---
 <b>Development tools</b>: 
 
 💻 <b>Languages and Frameworks/libraries</b>:
 *  <b>Front-end</b>: HTML, CSS, JavaScript, Bootstrap, Angular.
-*  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java
+*  <b>Back-end</b>: PHP, Laravel, Python, MySQL, and a little bit of Java.
 
 💻 <b>Others</b>:
 *  <b>Virtualization</b>: Docker
