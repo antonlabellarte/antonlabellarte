@@ -7,6 +7,8 @@ Actually I'm in a Consulting Company partnered with MS,
 developing app with Power Apps, using Python solutions,
 offering consults in 365 Environment, managing enterprises domains and mailboxes flows.
 
+While I'm in this Company I want to make my way towards the full-code world, always learning new languages, patterns, practice and replicate projects with the most demanded languages/frameworks.
+
 ---
 <b>Development tools</b>: 
 
