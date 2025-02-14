@@ -1,8 +1,8 @@
 ## Antonio Labellarte
 ## </> Web Developer
 
-- 🔹 Actually in a consulting company
-- 👉 Reach me: [LinkedIn](https://www.linkedin.com/in/antonio-labellarte/)
+🔹 Actually in a consulting company
+👉 Reach me: [LinkedIn](https://www.linkedin.com/in/antonio-labellarte/)
 
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
