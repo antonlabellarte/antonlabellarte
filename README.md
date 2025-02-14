@@ -1,7 +1,7 @@
 ## Antonio Labellarte
 ## </> Web Developer
 
-🔹 Actually in a consulting company
+🔹 Actually in a consulting company  
 👉 Reach me: [LinkedIn](https://www.linkedin.com/in/antonio-labellarte/)
 
 ## 🛠️ Tech Stack
